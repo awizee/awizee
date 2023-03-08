@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @awizee
 - 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning frontend using html css and javascript
+- 🌱 I’m currently learning frontend development
 - 💞️ I’m looking to collaborate on all frontend projects and even fullstack
+- 🎉 I had training with @zuri-training
 - 📫 How to reach me 
 
 <!---
